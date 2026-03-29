@@ -158,7 +158,7 @@ export default function App() {
 
       {/* Footer */}
       <footer className="border-t border-cyber-border py-3 text-center text-cyber-dim text-xs tracking-widest">
-        ROBO-GUESS © 2025 — PRESIONA TECLAS DEL TECLADO PARA JUGAR
+        ROBO-GUESS © 2026 — PRESIONA TECLAS DEL TECLADO PARA JUGAR
       </footer>
     </div>
   )
